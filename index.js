@@ -7,6 +7,7 @@ function make(person){
 }
 
 
-function test(){
+function test(int value){
   console.log('just testing');
+  logger(value);
 }
