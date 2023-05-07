@@ -14,4 +14,5 @@ function test(int value){
 
 function ads(){
   console.log("ads")
+  console.log("heree")
 }
