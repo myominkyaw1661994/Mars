@@ -15,3 +15,7 @@ function test(int value){
 function ads(){
   console.log("ads")
 }
+
+fucntion me(){
+  console.log(me)
+}
