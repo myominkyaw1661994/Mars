@@ -5,3 +5,9 @@ function make(person){
     age: person.age
   };
 }
+
+
+function test(int value){
+  console.log('just testing');
+  logger(value);
+}
