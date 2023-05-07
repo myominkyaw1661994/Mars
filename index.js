@@ -5,3 +5,8 @@ function make(person){
     age: person.age
   };
 }
+
+
+function test(){
+  console.log('just testing');
+}
